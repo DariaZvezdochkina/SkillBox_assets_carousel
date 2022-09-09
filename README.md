@@ -1,16 +1,9 @@
-# assets_skillbox_3
+# Carousel
 
-A new Flutter project.
+Небольшой проект для курса Skillbox, включающий в себя карусель, которая автоматически пролистывает элементы
+и генерирует описание количества памяти устройства.
 
-## Getting Started
+- Импорты в проекте автоматически сортируются
+- Стрелки после карусели не кликабельные
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" alt="Снимок экрана 2022-09-09 в 15 54 53" src="https://user-images.githubusercontent.com/57398072/189358391-5c99b779-6e17-46ee-a508-edd718c18c11.png">
